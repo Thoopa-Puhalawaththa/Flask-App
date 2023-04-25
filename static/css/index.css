@@ -1,0 +1,40 @@
+body{
+    min-height: 100vh;
+    align-items:center;
+    justify-content:;
+    background-color: #19d8f1;
+
+    background-image: url("./pic/blue.jpg"); /* The image used */
+    background-color: #96e6f6; /* Used if the image is unavailable */
+    height: 200px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: auto;/* Resize the background image to cover the entire container */
+}
+
+
+
+h1 {
+  color: black;
+  font-size:120px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 400;
+  margin: 0 0 30px 0;
+}
+
+h2 {
+  color: blue;
+  font-size:100px;
+  font-family: "Raleway", Arial, sans-serif;
+  font-weight: 500;
+  margin: 0 0 30px 0;
+}
+
+p {
+  color: darkblue;
+  font-size:35px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+  position: initial;
+  margin: 400px 10px 30px 0px;
+}
