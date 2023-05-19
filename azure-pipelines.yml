@@ -1,4 +1,6 @@
 # Python package
+- task: PipAuthenticate@1
+  inputs:
 - task: Maven@4
   inputs:
     mavenPomFile: 'pom.xml'
